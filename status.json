@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T19:00:02Z",
+ "generated_at": "2026-07-22T19:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,7 +17,7 @@
   "name": "The Hobbit",
   "released_at": "2026-08-14",
   "days_to_release": 23,
-  "scryfall_card_count": 111
+  "scryfall_card_count": 119
  },
  "poller_events_26h": [],
  "news_headlines": [
@@ -70,12 +70,12 @@
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "Zach Barash",
-   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
-  },
-  {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
   },
   {
    "title": "Feature",
