@@ -1,0 +1,86 @@
+{
+ "generated_at": "2026-07-22T02:47:07Z",
+ "site": {
+  "healthz": 200,
+  "landing": 200,
+  "guide_page": 200,
+  "pending_api": 200,
+  "all_ok": true
+ },
+ "pending_guides": {
+  "count": 0,
+  "codes": []
+ },
+ "cr_effective": "June 19, 2026",
+ "next_set": {
+  "code": "hob",
+  "name": "The Hobbit",
+  "released_at": "2026-08-14",
+  "days_to_release": 23,
+  "scryfall_card_count": 108
+ },
+ "poller_events_26h": [],
+ "news_headlines": [
+  {
+   "title": "Where to Play Magic: The Gathering\u00ae | The Hobbit\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/where-to-play-the-hobbit"
+  },
+  {
+   "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Mechanics",
+   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-mechanics"
+  },
+  {
+   "title": "Returning to Middle-earth with Universes Beyond",
+   "url": "https://magic.wizards.com/en/news/making-magic/returning-to-middle-earth-with-universes-beyond"
+  },
+  {
+   "title": "Planar Cube Draft, July 21\u2013August 8",
+   "url": "https://magic.wizards.com/en/news/mtg-arena/planar-cube-draft"
+  },
+  {
+   "title": "Everything Announced for the Magic Multiverse in 2027",
+   "url": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
+  },
+  {
+   "title": "Collecting Reality Fracture: A First Look",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
+  },
+  {
+   "title": "MagicCon Heads to Japan, Europe, and the US in 2027",
+   "url": "https://magic.wizards.com/en/news/announcements/magiccon-heads-to-japan-europe-and-the-us-in-2027"
+  },
+  {
+   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122: A First Look",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
+  },
+  {
+   "title": "Secret Lair: Superdrop of the Moonlight Jellies",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-superdrop-of-the-moonlight-jellies"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  }
+ ],
+ "news_fetch_ok": true
+}
