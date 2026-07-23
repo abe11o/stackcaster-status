@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T15:30:01Z",
+ "generated_at": "2026-07-23T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,7 +17,7 @@
   "name": "The Hobbit",
   "released_at": "2026-08-14",
   "days_to_release": 22,
-  "scryfall_card_count": 126
+  "scryfall_card_count": 127
  },
  "poller_events_26h": [],
  "news_headlines": [
@@ -58,10 +58,6 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Secret Lair: Superdrop of the Moonlight Jellies",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-superdrop-of-the-moonlight-jellies"
-  },
-  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
@@ -80,6 +76,10 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Making Magic",
+   "url": "https://magic.wizards.com/en/news/making-magic"
   }
  ],
  "news_fetch_ok": true
