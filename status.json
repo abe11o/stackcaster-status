@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T02:30:01Z",
+ "generated_at": "2026-07-23T03:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,7 +17,7 @@
   "name": "The Hobbit",
   "released_at": "2026-08-14",
   "days_to_release": 22,
-  "scryfall_card_count": 119
+  "scryfall_card_count": 126
  },
  "poller_events_26h": [],
  "news_headlines": [
