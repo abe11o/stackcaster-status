@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T16:00:01Z",
+ "generated_at": "2026-07-24T16:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,7 +17,7 @@
   "name": "The Hobbit",
   "released_at": "2026-08-14",
   "days_to_release": 21,
-  "scryfall_card_count": 133
+  "scryfall_card_count": 141
  },
  "poller_events_26h": [],
  "news_headlines": [
@@ -58,12 +58,16 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
    "title": "John Schork",
@@ -76,10 +80,6 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
   }
  ],
  "news_fetch_ok": true
