@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T17:30:01Z",
+ "generated_at": "2026-07-27T18:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -61,24 +61,24 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
-  },
-  {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Making Magic",
+   "url": "https://magic.wizards.com/en/news/making-magic"
   }
  ],
  "news_fetch_ok": true
