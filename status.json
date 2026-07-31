@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T17:30:02Z",
+ "generated_at": "2026-07-31T18:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,12 +62,16 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Feature",
@@ -76,10 +80,6 @@
   {
    "title": "Ethan Fleischer",
    "url": "https://magic.wizards.com/en/news/archive?author=2mIbaONpGct1i1ZAvKiDHC"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   }
  ],
  "news_fetch_ok": true
