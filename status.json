@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T15:00:01Z",
+ "generated_at": "2026-08-03T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,6 +22,18 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "What's Inside Mystery Booster Commander Edition?",
+   "url": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-commander-edition"
+  },
+  {
+   "title": "Mystery Booster Commander Edition Release Notes",
+   "url": "https://magic.wizards.com/en/news/feature/mystery-booster-commander-edition-release-notes"
+  },
+  {
+   "title": "Update to Tolabow, Loch Rascal's Rules Text",
+   "url": "https://magic.wizards.com/en/news/announcements/update-to-tolabow-loch-rascals-rules-text"
+  },
+  {
    "title": "The Tale of Magic: The Gathering\u00ae | The Hobbit\u2122 Vision Design",
    "url": "https://magic.wizards.com/en/news/feature/the-tale-of-the-hobbit-vision-design"
   },
@@ -42,14 +54,6 @@
    "url": "https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks"
   },
   {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Tokens",
-   "url": "https://magic.wizards.com/en/news/card-preview/the-hobbit-tokens"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Art Cards",
-   "url": "https://magic.wizards.com/en/news/card-preview/the-hobbit-art-cards"
-  },
-  {
    "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
    "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
   },
@@ -62,24 +66,20 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
   },
   {
-   "title": "Ethan Fleischer",
-   "url": "https://magic.wizards.com/en/news/archive?author=2mIbaONpGct1i1ZAvKiDHC"
+   "title": "Zakeel Gordon",
+   "url": "https://magic.wizards.com/en/news/archive?author=1iuVapWGRdDkVKUHT2xffq"
+  },
+  {
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
+   "title": "Eric Levine",
+   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   }
  ],
  "news_fetch_ok": true
