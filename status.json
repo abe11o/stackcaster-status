@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T18:00:01Z",
+ "generated_at": "2026-08-03T18:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -66,20 +66,20 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "Zakeel Gordon",
-   "url": "https://magic.wizards.com/en/news/archive?author=1iuVapWGRdDkVKUHT2xffq"
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
   },
   {
-   "title": "Eric Levine",
-   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   }
  ],
  "news_fetch_ok": true
