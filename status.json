@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T15:00:01Z",
+ "generated_at": "2026-08-04T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -27,6 +27,10 @@
   "[2026-08-04 00:47:28Z]   >>> REGENERATED GUIDE STAGED: hob \u2014 approving it in the admin panel (Pending Guides) replaces the provisional version live."
  ],
  "news_headlines": [
+  {
+   "title": "Designing All the Dwarves of Magic: The Gathering\u00ae | The Hobbit\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/designing-all-the-dwarves-of-the-hobbit"
+  },
   {
    "title": "What's Inside Mystery Booster Commander Edition?",
    "url": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-commander-edition"
@@ -72,20 +76,16 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Annie Sardelis",
+   "url": "https://magic.wizards.com/en/news/archive?author=3WUBZgxgSRd5dXfVOMCqnN"
+  },
+  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "Zach Barash",
-   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   }
  ],
  "news_fetch_ok": true
