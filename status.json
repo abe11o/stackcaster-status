@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T02:30:01Z",
+ "generated_at": "2026-08-05T03:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,11 +21,7 @@
   "days_to_release": 9,
   "scryfall_card_count": 321
  },
- "poller_events_26h": [
-  "[2026-08-04 00:43:52Z]   DROP: NEW CR INSTALLED for hob window",
-  "[2026-08-04 00:43:52Z]   REGEN: hob guide is provisional and the new CR is installed \u2014 attempt 1/2 (draft only ~$0.40, no new research)",
-  "[2026-08-04 00:47:28Z]   >>> REGENERATED GUIDE STAGED: hob \u2014 approving it in the admin panel (Pending Guides) replaces the provisional version live."
- ],
+ "poller_events_26h": [],
  "news_headlines": [
   {
    "title": "Secret Lair Commander Deck: Hatsune Miku Decklist",
