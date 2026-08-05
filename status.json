@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T15:00:01Z",
+ "generated_at": "2026-08-05T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -24,6 +24,10 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Welcome Decks",
+   "url": "https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks"
+  },
+  {
    "title": "Secret Lair Commander Deck: Hatsune Miku Decklist",
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-commander-deck-hatsune-miku-decklist"
   },
@@ -44,10 +48,6 @@
    "url": "https://magic.wizards.com/en/news/announcements/update-to-tolabow-loch-rascals-rules-text"
   },
   {
-   "title": "The Tale of Magic: The Gathering\u00ae | The Hobbit\u2122 Vision Design",
-   "url": "https://magic.wizards.com/en/news/feature/the-tale-of-the-hobbit-vision-design"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
    "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
   },
@@ -60,10 +60,6 @@
    "url": "https://magic.wizards.com/en/news/feature/the-hobbit-release-notes"
   },
   {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Welcome Decks",
-   "url": "https://magic.wizards.com/en/news/announcements/the-hobbit-welcome-decks"
-  },
-  {
    "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
    "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
   },
@@ -72,16 +68,20 @@
    "url": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
   },
   {
-   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122: A First Look",
-   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
-  },
-  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
