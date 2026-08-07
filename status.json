@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T16:00:01Z",
+ "generated_at": "2026-08-07T16:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -74,12 +74,12 @@
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
-  },
-  {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   }
  ],
  "news_fetch_ok": true
