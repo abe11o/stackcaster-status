@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T15:30:01Z",
+ "generated_at": "2026-08-07T16:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,14 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Secret Lair: A Marvelous Mathoms\u2122 Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
+   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
+  },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Welcome Decks",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks"
@@ -44,10 +52,6 @@
   {
    "title": "Update to Tolabow, Loch Rascal's Rules Text",
    "url": "https://magic.wizards.com/en/news/announcements/update-to-tolabow-loch-rascals-rules-text"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
-   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
   },
   {
    "title": "All the Scene Cards from Magic: The Gathering\u00ae | The Hobbit\u2122",
@@ -76,10 +80,6 @@
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
