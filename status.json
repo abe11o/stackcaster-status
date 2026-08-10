@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T15:00:01Z",
+ "generated_at": "2026-08-10T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,22 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Banned and Restricted Announcement \u2013 August 10, 2026",
+   "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026"
+  },
+  {
+   "title": "Pauper Format Check-In \u2013 August 10, 2026",
+   "url": "https://magic.wizards.com/en/news/announcements/pauper-format-check-in-august-10-2026"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Update Bulletin",
+   "url": "https://magic.wizards.com/en/news/announcements/the-hobbit-update-bulletin"
+  },
+  {
+   "title": "Playtesting",
+   "url": "https://magic.wizards.com/en/news/making-magic/playtesting"
+  },
   {
    "title": "Secret Lair: A Marvelous Mathoms\u2122 Superdrop",
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop"
@@ -50,18 +66,6 @@
    "url": "https://magic.wizards.com/en/news/feature/mystery-booster-commander-edition-release-notes"
   },
   {
-   "title": "Update to Tolabow, Loch Rascal's Rules Text",
-   "url": "https://magic.wizards.com/en/news/announcements/update-to-tolabow-loch-rascals-rules-text"
-  },
-  {
-   "title": "All the Scene Cards from Magic: The Gathering\u00ae | The Hobbit\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Release Notes",
-   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-release-notes"
-  },
-  {
    "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
    "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
   },
@@ -70,16 +74,12 @@
    "url": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
   },
   {
+   "title": "All the Scene Cards from Magic: The Gathering\u00ae | The Hobbit\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
+  },
+  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   }
  ],
  "news_fetch_ok": true
