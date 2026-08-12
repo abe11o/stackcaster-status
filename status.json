@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T15:00:01Z",
+ "generated_at": "2026-08-12T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -50,10 +50,6 @@
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks"
   },
   {
-   "title": "Secret Lair Commander Deck: Hatsune Miku Decklist",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-commander-deck-hatsune-miku-decklist"
-  },
-  {
    "title": "Designing All the Dwarves of Magic: The Gathering\u00ae | The Hobbit\u2122",
    "url": "https://magic.wizards.com/en/news/feature/designing-all-the-dwarves-of-the-hobbit"
   },
@@ -80,6 +76,10 @@
   {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   }
  ],
  "news_fetch_ok": true
