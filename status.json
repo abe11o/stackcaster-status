@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T16:30:01Z",
+ "generated_at": "2026-08-14T17:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -58,20 +58,20 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Carmen Klomparens",
