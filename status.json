@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T15:30:01Z",
+ "generated_at": "2026-08-14T16:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,28 +26,16 @@
    "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026"
   },
   {
-   "title": "Pauper Format Check-In \u2013 August 10, 2026",
-   "url": "https://magic.wizards.com/en/news/announcements/pauper-format-check-in-august-10-2026"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Update Bulletin",
    "url": "https://magic.wizards.com/en/news/announcements/the-hobbit-update-bulletin"
   },
   {
-   "title": "Playtesting",
-   "url": "https://magic.wizards.com/en/news/making-magic/playtesting"
+   "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
   },
   {
    "title": "Secret Lair: A Marvelous Mathoms\u2122 Superdrop",
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
-   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Welcome Decks",
-   "url": "https://magic.wizards.com/en/news/announcements/star-trek-welcome-decks"
   },
   {
    "title": "Designing All the Dwarves of Magic: The Gathering\u00ae | The Hobbit\u2122",
@@ -58,16 +46,12 @@
    "url": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-commander-edition"
   },
   {
-   "title": "Mystery Booster Commander Edition Release Notes",
-   "url": "https://magic.wizards.com/en/news/feature/mystery-booster-commander-edition-release-notes"
-  },
-  {
-   "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
-   "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
-  },
-  {
    "title": "Everything Announced for the Magic Multiverse in 2027",
    "url": "https://magic.wizards.com/en/news/announcements/everything-announced-for-the-magic-multiverse-in-2027"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
+   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
   },
   {
    "title": "All the Scene Cards from Magic: The Gathering\u00ae | The Hobbit\u2122",
@@ -80,6 +64,22 @@
   {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Carmen Klomparens",
+   "url": "https://magic.wizards.com/en/news/archive?author=1M1YMw3sfInI8hxMtrmb2S"
+  },
+  {
+   "title": "Jadine Klomparens",
+   "url": "https://magic.wizards.com/en/news/archive?author=7I6mT6EEM0s2v48BZvisQF"
   }
  ],
  "news_fetch_ok": true
