@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T20:30:02Z",
+ "generated_at": "2026-08-18T21:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,12 +62,12 @@
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "Grant Reid",
-   "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
-  },
-  {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Grant Reid",
+   "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
   },
   {
    "title": "Making Magic",
