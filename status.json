@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T17:30:01Z",
+ "generated_at": "2026-08-18T18:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -24,10 +24,6 @@
   {
    "title": "Big-Picture Questions, Part 1",
    "url": "https://magic.wizards.com/en/news/making-magic/big-picture-questions-part-1"
-  },
-  {
-   "title": "Secret Lair: A Marvelous Mathoms\u2122 Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-marvelous-mathom-superdrop"
   },
   {
    "title": "Banned and Restricted Announcement \u2013 August 10, 2026",
@@ -80,6 +76,10 @@
   {
    "title": "Mark Rosewater",
    "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
