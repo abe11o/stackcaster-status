@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T23:30:01Z",
+ "generated_at": "2026-08-19T00:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -16,7 +16,7 @@
   "code": "hob",
   "name": "The Hobbit",
   "released_at": "2026-08-14",
-  "days_to_release": -4,
+  "days_to_release": -5,
   "scryfall_card_count": 321
  },
  "poller_events_26h": [],
@@ -62,12 +62,12 @@
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
    "title": "Grant Reid",
    "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Making Magic",
