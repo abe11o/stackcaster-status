@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T15:00:01Z",
+ "generated_at": "2026-08-21T15:30:05Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -36,10 +36,6 @@
   {
    "title": "Designing All the Dwarves of Magic: The Gathering\u00ae | The Hobbit\u2122",
    "url": "https://magic.wizards.com/en/news/feature/designing-all-the-dwarves-of-the-hobbit"
-  },
-  {
-   "title": "What's Inside Mystery Booster Commander Edition?",
-   "url": "https://magic.wizards.com/en/news/feature/whats-inside-mystery-booster-commander-edition"
   },
   {
    "title": "Everything Announced for the Magic Multiverse in 2027",
@@ -80,6 +76,10 @@
   {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
