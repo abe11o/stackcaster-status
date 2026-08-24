@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T15:00:01Z",
+ "generated_at": "2026-08-24T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,8 +22,8 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Big-Picture Questions, Part 1",
-   "url": "https://magic.wizards.com/en/news/making-magic/big-picture-questions-part-1"
+   "title": "Big-Picture Questions, Part 2",
+   "url": "https://magic.wizards.com/en/news/making-magic/big-picture-questions-part-2"
   },
   {
    "title": "Banned and Restricted Announcement \u2013 August 10, 2026",
@@ -54,24 +54,24 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Grant Reid",
-   "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
   },
   {
    "title": "Mark Rosewater",
    "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Grant Reid",
+   "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
   },
   {
    "title": "Announcements",
