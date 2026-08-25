@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T21:30:02Z",
+ "generated_at": "2026-08-25T22:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,12 +62,12 @@
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Announcements",
