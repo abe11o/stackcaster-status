@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T23:30:01Z",
+ "generated_at": "2026-08-25T00:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -13,11 +13,11 @@
  },
  "cr_effective": "August 7, 2026",
  "next_set": {
-  "code": "hob",
-  "name": "The Hobbit",
-  "released_at": "2026-08-14",
-  "days_to_release": -10,
-  "scryfall_card_count": 321
+  "code": "fra",
+  "name": "Reality Fracture",
+  "released_at": "2026-10-02",
+  "days_to_release": 38,
+  "scryfall_card_count": 43
  },
  "poller_events_26h": [],
  "news_headlines": [
