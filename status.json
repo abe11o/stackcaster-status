@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T15:30:01Z",
+ "generated_at": "2026-08-27T16:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -30,16 +30,8 @@
    "url": "https://magic.wizards.com/en/news/making-magic/big-picture-questions-part-2"
   },
   {
-   "title": "Banned and Restricted Announcement \u2013 August 10, 2026",
-   "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-august-10-2026"
-  },
-  {
    "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
    "url": "https://magic.wizards.com/en/news/feature/collecting-the-hobbit"
-  },
-  {
-   "title": "Designing All the Dwarves of Magic: The Gathering\u00ae | The Hobbit\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/designing-all-the-dwarves-of-the-hobbit"
   },
   {
    "title": "Everything Announced for the Magic Multiverse in 2027",
@@ -80,6 +72,10 @@
   {
    "title": "Mark Rosewater",
    "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Grant Reid",
+   "url": "https://magic.wizards.com/en/news/archive?author=1r4zPnZXBHnx2aqJCIVNCw"
   }
  ],
  "news_fetch_ok": true
