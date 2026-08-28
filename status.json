@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T15:00:02Z",
+ "generated_at": "2026-08-28T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,16 +22,16 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "Planeswalker's Guide to Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
+  },
+  {
    "title": "Secret Lair: A Perfectly Normal Superdrop",
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop"
   },
   {
-   "title": "Secret Lair: The Most Powerful Superdrop in the Universe",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-the-most-powerful-superdrop-in-the-universe"
-  },
-  {
-   "title": "Big-Picture Questions, Part 2",
-   "url": "https://magic.wizards.com/en/news/making-magic/big-picture-questions-part-2"
+   "title": "Collecting Reality Fracture: A First Look",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
    "title": "Collecting Magic: The Gathering\u00ae | The Hobbit\u2122: The Four Most Important Things to Know",
@@ -54,6 +54,18 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
+   "title": "Magic Story",
+   "url": "https://magic.wizards.com/en/news/magic-story"
+  },
+  {
+   "title": "Meris Mullaley",
+   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
+  },
+  {
+   "title": "K. Arsenault Rivera",
+   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
+  },
+  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
@@ -68,14 +80,6 @@
   {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
-  },
-  {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
   }
  ],
  "news_fetch_ok": true
