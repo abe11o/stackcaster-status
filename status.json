@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T18:00:02Z",
+ "generated_at": "2026-08-28T18:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,6 +54,14 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -64,14 +72,6 @@
   {
    "title": "K. Arsenault Rivera",
    "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
    "title": "MTG Arena",
