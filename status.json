@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T16:00:01Z",
+ "generated_at": "2026-08-31T16:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -30,12 +30,12 @@
    "url": "https://magic.wizards.com/en/news/making-magic/the-lorwyn-five"
   },
   {
-   "title": "Planeswalker's Guide to Reality Fracture",
-   "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
-  },
-  {
    "title": "Secret Lair: A Perfectly Normal Superdrop",
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop"
+  },
+  {
+   "title": "Planeswalker's Guide to Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
   },
   {
    "title": "Collecting Reality Fracture: A First Look",
