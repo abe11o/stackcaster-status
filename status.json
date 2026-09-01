@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T15:30:01Z",
+ "generated_at": "2026-09-01T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,8 +22,16 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "Reality Fracture | Episode 2: Purge Yourself of Doubt",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
+  },
+  {
    "title": "Reality Fracture | Episode 1: Tam, Alive",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
+  },
+  {
+   "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
+   "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
   },
   {
    "title": "The Lorwyn Five",
@@ -58,18 +66,6 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -78,8 +74,12 @@
    "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
   },
   {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
