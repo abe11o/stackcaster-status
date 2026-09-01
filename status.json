@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T17:00:02Z",
+ "generated_at": "2026-09-01T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,12 +26,16 @@
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
   },
   {
-   "title": "Reality Fracture | Episode 1: Tam, Alive",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
+   "title": "Chaos Vault: The Zeta Set Puts the Playtest in Your Hands",
+   "url": "https://magic.wizards.com/en/news/announcements/chaos-vault-the-zeta-set-puts-the-playtest-in-your-hands"
   },
   {
    "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
    "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
+  },
+  {
+   "title": "Reality Fracture | Episode 1: Tam, Alive",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
   },
   {
    "title": "The Lorwyn Five",
@@ -66,20 +70,16 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   },
   {
-   "title": "Alison L\u00fchrs",
-   "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
+   "title": "Matthew Hodgins",
+   "url": "https://magic.wizards.com/en/news/archive?author=3pVeN9OsY0pf0qynruvpVc"
   },
   {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
