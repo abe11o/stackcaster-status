@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T23:00:01Z",
+ "generated_at": "2026-09-02T23:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,10 +26,6 @@
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-3-i-can-be-both"
   },
   {
-   "title": "Chaos Vault: The Zeta Set Puts the Playtest in Your Hands",
-   "url": "https://magic.wizards.com/en/news/announcements/chaos-vault-the-zeta-set-puts-the-playtest-in-your-hands"
-  },
-  {
    "title": "Reality Fracture | Episode 2: Purge Yourself of Doubt",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
   },
@@ -40,10 +36,6 @@
   {
    "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
    "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
-  },
-  {
-   "title": "The Lorwyn Five",
-   "url": "https://magic.wizards.com/en/news/making-magic/the-lorwyn-five"
   },
   {
    "title": "Planeswalker's Guide to Reality Fracture",
@@ -80,6 +72,14 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Matthew Hodgins",
+   "url": "https://magic.wizards.com/en/news/archive?author=3pVeN9OsY0pf0qynruvpVc"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
