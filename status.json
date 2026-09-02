@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T15:30:01Z",
+ "generated_at": "2026-09-02T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,33 +17,33 @@
   "name": "Reality Fracture",
   "released_at": "2026-10-02",
   "days_to_release": 30,
-  "scryfall_card_count": 45
+  "scryfall_card_count": 46
  },
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Reality Fracture | Episode 2: Purge Yourself of Doubt",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
+   "title": "Reality Fracture | Episode 3: I Can Be Both",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-3-i-can-be-both"
   },
   {
    "title": "Chaos Vault: The Zeta Set Puts the Playtest in Your Hands",
    "url": "https://magic.wizards.com/en/news/announcements/chaos-vault-the-zeta-set-puts-the-playtest-in-your-hands"
   },
   {
-   "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
-   "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
+   "title": "Reality Fracture | Episode 2: Purge Yourself of Doubt",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
   },
   {
    "title": "Reality Fracture | Episode 1: Tam, Alive",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
   },
   {
-   "title": "The Lorwyn Five",
-   "url": "https://magic.wizards.com/en/news/making-magic/the-lorwyn-five"
+   "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
+   "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
   },
   {
-   "title": "Secret Lair: A Perfectly Normal Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-a-perfectly-normal-superdrop"
+   "title": "The Lorwyn Five",
+   "url": "https://magic.wizards.com/en/news/making-magic/the-lorwyn-five"
   },
   {
    "title": "Planeswalker's Guide to Reality Fracture",
