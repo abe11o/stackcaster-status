@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T01:00:01Z",
+ "generated_at": "2026-09-03T01:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,6 +62,14 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -72,14 +80,6 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Matthew Hodgins",
-   "url": "https://magic.wizards.com/en/news/archive?author=3pVeN9OsY0pf0qynruvpVc"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
