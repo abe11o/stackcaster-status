@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T15:00:02Z",
+ "generated_at": "2026-09-07T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,10 +17,14 @@
   "name": "Reality Fracture",
   "released_at": "2026-10-02",
   "days_to_release": 25,
-  "scryfall_card_count": 49
+  "scryfall_card_count": 50
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Reality Fracture | Episode 6: The Man Who Kills His Own Ambition",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-6-the-man-who-kills-his-own-ambition"
+  },
   {
    "title": "Reality Fracture | Episode 5: I Don't Need to Convince You",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-5-i-dont-need-to-convince-you"
@@ -66,20 +70,16 @@
    "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Gavin Verhey",
-   "url": "https://magic.wizards.com/en/news/archive?author=5m1u9U8j4A5Q8XLlASAsjK"
-  },
-  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
   {
    "title": "Alison L\u00fchrs",
    "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
