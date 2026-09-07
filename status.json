@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-07T05:30:01Z",
+ "generated_at": "2026-09-07T06:00:02Z",
  "site": {
-  "healthz": 200,
-  "landing": 200,
-  "guide_page": 200,
-  "pending_api": 200,
-  "all_ok": true
+  "healthz": 502,
+  "landing": 502,
+  "guide_page": 502,
+  "pending_api": 502,
+  "all_ok": false
  },
  "pending_guides": {
   "count": 0,
