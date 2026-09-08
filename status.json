@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:30:01Z",
+ "generated_at": "2026-09-08T19:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -8,8 +8,10 @@
   "all_ok": true
  },
  "pending_guides": {
-  "count": 0,
-  "codes": []
+  "count": 1,
+  "codes": [
+   "fra"
+  ]
  },
  "cr_effective": "August 7, 2026",
  "next_set": {
@@ -17,9 +19,12 @@
   "name": "Reality Fracture",
   "released_at": "2026-10-02",
   "days_to_release": 24,
-  "scryfall_card_count": 52
+  "scryfall_card_count": 146
  },
- "poller_events_26h": [],
+ "poller_events_26h": [
+  "[2026-09-08 18:43:27Z]   DROP: MECHANICS ARTICLE IS LIVE -> https://magic.wizards.com/en/news/feature/reality-fracture-mechanics",
+  "[2026-09-08 19:00:01Z]   >>> STAGED GUIDE READY: fra \u2014 approve it in the admin panel (Pending Guides tab). Zero-deploy publish."
+ ],
  "news_headlines": [
   {
    "title": "Collecting Reality Fracture",
