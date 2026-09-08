@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T17:00:01Z",
+ "generated_at": "2026-09-08T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,24 +62,24 @@
    "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
   },
   {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Update Bulletin",
-   "url": "https://magic.wizards.com/en/news/announcements/the-hobbit-update-bulletin"
+   "title": "Arena Powered Cube Draft",
+   "url": "https://magic.wizards.com/en/news/mtg-arena/arena-powered-cube-draft"
   },
   {
-   "title": "Magic: The Gathering\u00ae | The Hobbit\u2122 Prerelease Guide",
-   "url": "https://magic.wizards.com/en/news/feature/the-hobbit-prerelease-guide"
+   "title": "MTG Arena Announcements \u2013 September 8, 2026",
+   "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-september-8-2026"
   },
   {
-   "title": "All the Scene Cards from Magic: The Gathering\u00ae | The Hobbit\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-the-hobbit"
+   "title": "Arena Direct for Aetherdrift, September 15\u201320",
+   "url": "https://magic.wizards.com/en/news/mtg-arena/arena-direct"
   },
   {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "Alison L\u00fchrs",
-   "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
   }
  ],
  "news_fetch_ok": true
