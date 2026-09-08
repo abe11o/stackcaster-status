@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:00:02Z",
+ "generated_at": "2026-09-08T18:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,64 +22,64 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "Collecting Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
+  },
+  {
+   "title": "Reality Fracture Mechanics",
+   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-mechanics"
+  },
+  {
+   "title": "The Legends of Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/magic-story/the-legends-of-reality-fracture"
+  },
+  {
+   "title": "Reality Fracture Buyer's Guide for Commander",
+   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
+  },
+  {
+   "title": "Reality Check, Part 1",
+   "url": "https://magic.wizards.com/en/news/making-magic/reality-check-part-1"
+  },
+  {
    "title": "Reality Fracture | Episode 7: Pick Up the Pieces",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-7-pick-up-the-pieces"
-  },
-  {
-   "title": "Reality Fracture | Episode 6: The Man Who Kills His Own Ambition",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-6-the-man-who-kills-his-own-ambition"
-  },
-  {
-   "title": "Reality Fracture | Episode 5: I Don't Need to Convince You",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-5-i-dont-need-to-convince-you"
-  },
-  {
-   "title": "Where to Find Reality Fracture Previews",
-   "url": "https://magic.wizards.com/en/news/announcements/where-to-find-reality-fracture-previews"
-  },
-  {
-   "title": "Reality Fracture | Episode 4: Oh, Sweetie",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-4-oh-sweetie"
-  },
-  {
-   "title": "Reality Fracture | Episode 3: I Can Be Both",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-3-i-can-be-both"
-  },
-  {
-   "title": "Reality Fracture | Episode 2: Purge Yourself of Doubt",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-2-purge-yourself-of-doubt"
-  },
-  {
-   "title": "Reality Fracture | Episode 1: Tam, Alive",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-1-tam-alive"
-  },
-  {
-   "title": "Join Wizards of the Coast and TCGplayer for a Charity Tournament",
-   "url": "https://magic.wizards.com/en/news/announcements/join-wizards-of-the-coast-and-tcgplayer-for-a-charity-tournament"
   },
   {
    "title": "Planeswalker's Guide to Reality Fracture",
    "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
   },
   {
-   "title": "Arena Powered Cube Draft",
-   "url": "https://magic.wizards.com/en/news/mtg-arena/arena-powered-cube-draft"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   },
   {
-   "title": "MTG Arena Announcements \u2013 September 8, 2026",
-   "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-september-8-2026"
+   "title": "Mike Turian",
+   "url": "https://magic.wizards.com/en/news/archive?author=55owNmuJFRv4RXHJfAxEPd"
   },
   {
-   "title": "Arena Direct for Aetherdrift, September 15\u201320",
-   "url": "https://magic.wizards.com/en/news/mtg-arena/arena-direct"
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Magic Story",
+   "url": "https://magic.wizards.com/en/news/magic-story"
   },
   {
-   "title": "Zach Barash",
-   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
+   "title": "Meris Mullaley",
+   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
+  },
+  {
+   "title": "Christopher Stuart-Reckling",
+   "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
+  },
+  {
+   "title": "K. Arsenault Rivera",
+   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
+  },
+  {
+   "title": "Matt Tabak",
+   "url": "https://magic.wizards.com/en/news/archive?author=3XagCcpRZNDnDsemnBgzgj"
   }
  ],
  "news_fetch_ok": true
