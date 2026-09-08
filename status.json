@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T15:30:01Z",
+ "generated_at": "2026-09-08T16:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,10 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Reality Fracture | Episode 7: Pick Up the Pieces",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-7-pick-up-the-pieces"
+  },
   {
    "title": "Reality Fracture | Episode 6: The Man Who Kills His Own Ambition",
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-6-the-man-who-kills-his-own-ambition"
@@ -76,10 +80,6 @@
   {
    "title": "Alison L\u00fchrs",
    "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
