@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T15:30:01Z",
+ "generated_at": "2026-09-09T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,6 +26,14 @@
   "[2026-09-08 19:00:01Z]   >>> STAGED GUIDE READY: fra \u2014 approve it in the admin panel (Pending Guides tab). Zero-deploy publish."
  ],
  "news_headlines": [
+  {
+   "title": "Where to Play Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
+  },
+  {
+   "title": "Reality Fracture | Episode 8: Keep Your Lids Open",
+   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-8-keep-your-lids-open"
+  },
   {
    "title": "Collecting Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
@@ -55,18 +63,6 @@
    "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-reality-fracture"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Mike Turian",
-   "url": "https://magic.wizards.com/en/news/archive?author=55owNmuJFRv4RXHJfAxEPd"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
-  },
-  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -83,8 +79,12 @@
    "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
   },
   {
-   "title": "Matt Tabak",
-   "url": "https://magic.wizards.com/en/news/archive?author=3XagCcpRZNDnDsemnBgzgj"
+   "title": "Alison L\u00fchrs",
+   "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
