@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T16:00:02Z",
+ "generated_at": "2026-09-09T16:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -19,7 +19,7 @@
   "name": "Reality Fracture",
   "released_at": "2026-10-02",
   "days_to_release": 23,
-  "scryfall_card_count": 151
+  "scryfall_card_count": 152
  },
  "poller_events_26h": [
   "[2026-09-08 18:43:27Z]   DROP: MECHANICS ARTICLE IS LIVE -> https://magic.wizards.com/en/news/feature/reality-fracture-mechanics",
