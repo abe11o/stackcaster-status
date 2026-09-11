@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T15:00:02Z",
+ "generated_at": "2026-09-11T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -30,16 +30,16 @@
    "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-10-happy-birthday"
   },
   {
+   "title": "The Legends of Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/magic-story/the-legends-of-reality-fracture"
+  },
+  {
    "title": "Where to Play Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
   },
   {
    "title": "Reality Fracture Mechanics",
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-mechanics"
-  },
-  {
-   "title": "The Legends of Reality Fracture",
-   "url": "https://magic.wizards.com/en/news/magic-story/the-legends-of-reality-fracture"
   },
   {
    "title": "Reality Fracture Buyer's Guide for Commander",
@@ -66,10 +66,6 @@
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
   {
-   "title": "Alison L\u00fchrs",
-   "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
-  },
-  {
    "title": "Meris Mullaley",
    "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
   },
@@ -80,6 +76,10 @@
   {
    "title": "K. Arsenault Rivera",
    "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
+  },
+  {
+   "title": "Alison L\u00fchrs",
+   "url": "https://magic.wizards.com/en/news/archive?author=27138ywwl8u8CUuhDvdjvb"
   }
  ],
  "news_fetch_ok": true
