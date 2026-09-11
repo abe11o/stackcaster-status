@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T21:30:02Z",
+ "generated_at": "2026-09-11T22:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -66,20 +66,20 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
    "title": "Dave Finseth",
    "url": "https://magic.wizards.com/en/news/archive?author=3FBvNHrcf8dKhvZGWTxm9J"
-  },
-  {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
-  },
-  {
-   "title": "Meris Mullaley",
-   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
   }
  ],
  "news_fetch_ok": true
