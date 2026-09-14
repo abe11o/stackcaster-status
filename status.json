@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T17:30:01Z",
+ "generated_at": "2026-09-14T18:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,6 +62,14 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -72,14 +80,6 @@
   {
    "title": "Christopher Stuart-Reckling",
    "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
-  },
-  {
-   "title": "K. Arsenault Rivera",
-   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
-  },
-  {
-   "title": "DK Billins",
-   "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
   }
  ],
  "news_fetch_ok": true
