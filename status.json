@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T21:00:01Z",
+ "generated_at": "2026-09-15T21:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -34,10 +34,6 @@
    "url": "https://magic.wizards.com/en/news/mtg-arena/state-of-the-formats-2026"
   },
   {
-   "title": "Reality Fracture | Episode 10: Happy Birthday",
-   "url": "https://magic.wizards.com/en/news/magic-story/reality-fracture-episode-10-happy-birthday"
-  },
-  {
    "title": "Where to Play Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
   },
@@ -46,16 +42,12 @@
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
   },
   {
+   "title": "Where to Find Reality Fracture Previews",
+   "url": "https://magic.wizards.com/en/news/announcements/where-to-find-reality-fracture-previews"
+  },
+  {
    "title": "Collecting Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Yoni Skolnik",
-   "url": "https://magic.wizards.com/en/news/archive?author=ew74IGoggO05oLq8KZ6G8"
   },
   {
    "title": "Magic Story",
@@ -76,6 +68,14 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Yoni Skolnik",
+   "url": "https://magic.wizards.com/en/news/archive?author=ew74IGoggO05oLq8KZ6G8"
   },
   {
    "title": "MTG Arena",
