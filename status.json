@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T16:00:01Z",
+ "generated_at": "2026-09-16T16:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,10 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
+  },
   {
    "title": "Enter the Echoverse with Reality Fracture Design",
    "url": "https://magic.wizards.com/en/news/feature/enter-the-echoverse-with-reality-fracture-design"
@@ -50,6 +54,14 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -68,18 +80,6 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Yoni Skolnik",
-   "url": "https://magic.wizards.com/en/news/archive?author=ew74IGoggO05oLq8KZ6G8"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
   }
  ],
  "news_fetch_ok": true
