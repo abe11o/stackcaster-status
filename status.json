@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T18:30:01Z",
+ "generated_at": "2026-09-16T19:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,24 +26,20 @@
    "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
   },
   {
-   "title": "Enter the Echoverse with Reality Fracture Design",
-   "url": "https://magic.wizards.com/en/news/feature/enter-the-echoverse-with-reality-fracture-design"
-  },
-  {
    "title": "The Legends of Reality Fracture",
    "url": "https://magic.wizards.com/en/news/magic-story/the-legends-of-reality-fracture"
   },
   {
-   "title": "MTG Arena State of the Formats 2026",
-   "url": "https://magic.wizards.com/en/news/mtg-arena/state-of-the-formats-2026"
+   "title": "Reality Fracture Buyer's Guide for Commander",
+   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
+  },
+  {
+   "title": "Enter the Echoverse with Reality Fracture Design",
+   "url": "https://magic.wizards.com/en/news/feature/enter-the-echoverse-with-reality-fracture-design"
   },
   {
    "title": "Where to Play Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
-  },
-  {
-   "title": "Reality Fracture Buyer's Guide for Commander",
-   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
   },
   {
    "title": "Where to Find Reality Fracture Previews",
@@ -80,6 +76,10 @@
   {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
