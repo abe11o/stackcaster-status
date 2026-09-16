@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T21:00:01Z",
+ "generated_at": "2026-09-16T21:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -50,6 +50,14 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -68,14 +76,6 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   },
   {
    "title": "Feature",
