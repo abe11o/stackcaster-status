@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T16:30:01Z",
+ "generated_at": "2026-09-18T17:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -58,28 +58,28 @@
    "url": "https://magic.wizards.com/en/news/announcements/where-to-find-reality-fracture-previews"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
-  },
-  {
-   "title": "Jess Dunks",
-   "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
-  },
-  {
-   "title": "Eric Levine",
-   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
-  },
-  {
-   "title": "Card Preview",
-   "url": "https://magic.wizards.com/en/news/card-preview"
-  },
-  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
+  },
+  {
+   "title": "Meris Mullaley",
+   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
+  },
+  {
+   "title": "Christopher Stuart-Reckling",
+   "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
+  },
+  {
+   "title": "K. Arsenault Rivera",
+   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
+  },
+  {
+   "title": "DK Billins",
+   "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
