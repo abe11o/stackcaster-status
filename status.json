@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T00:00:01Z",
+ "generated_at": "2026-09-19T00:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -70,16 +70,16 @@
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
+   "title": "Magic Story",
+   "url": "https://magic.wizards.com/en/news/magic-story"
   },
   {
-   "title": "Jess Dunks",
-   "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
+   "title": "Meris Mullaley",
+   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
   },
   {
-   "title": "Eric Levine",
-   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
+   "title": "Christopher Stuart-Reckling",
+   "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
   }
  ],
  "news_fetch_ok": true
