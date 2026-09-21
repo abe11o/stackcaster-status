@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T17:00:02Z",
+ "generated_at": "2026-09-21T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -62,24 +62,24 @@
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Jess Dunks",
-   "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
-  },
-  {
-   "title": "Eliana Rabinowitz",
-   "url": "https://magic.wizards.com/en/news/archive?author=77QsgqWz8LuRgzwOQcSMAa"
   }
  ],
  "news_fetch_ok": true
