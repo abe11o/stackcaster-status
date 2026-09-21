@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T23:30:02Z",
+ "generated_at": "2026-09-21T00:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -16,7 +16,7 @@
   "code": "fra",
   "name": "Reality Fracture",
   "released_at": "2026-10-02",
-  "days_to_release": 12,
+  "days_to_release": 11,
   "scryfall_card_count": 461
  },
  "poller_events_26h": [],
