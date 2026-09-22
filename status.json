@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T15:00:02Z",
+ "generated_at": "2026-09-22T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,16 +26,12 @@
    "url": "https://magic.wizards.com/en/news/feature/magic-rules-blog-introducing-the-blog"
   },
   {
-   "title": "Reality Fracture Update Bulletin",
-   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-update-bulletin"
+   "title": "Foundations Commander Decklists",
+   "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
    "title": "Reality Fracture Vision Design Handoff, Part 1",
    "url": "https://magic.wizards.com/en/news/making-magic/reality-fracture-vision-design-handoff-part-1"
-  },
-  {
-   "title": "Foundations Commander Decklists",
-   "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
    "title": "Reality Fracture Release Notes",
@@ -46,6 +42,10 @@
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-prerelease-guide"
   },
   {
+   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
+  },
+  {
    "title": "Reality Fracture Buyer's Guide for Commander",
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
   },
@@ -54,12 +54,8 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
-   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
-   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
-  },
-  {
-   "title": "Where to Play Reality Fracture",
-   "url": "https://magic.wizards.com/en/news/feature/where-to-play-reality-fracture"
+   "title": "Reality Fracture Update Bulletin",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-update-bulletin"
   },
   {
    "title": "MTG Arena",
@@ -80,6 +76,10 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Jess Dunks",
+   "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
   }
  ],
  "news_fetch_ok": true
