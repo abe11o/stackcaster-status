@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T15:00:02Z",
+ "generated_at": "2026-09-24T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,20 +26,12 @@
    "url": "https://magic.wizards.com/en/news/feature/magic-rules-blog-introducing-the-blog"
   },
   {
-   "title": "Foundations Commander Decklists",
-   "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
-  },
-  {
-   "title": "Reality Fracture Vision Design Handoff, Part 1",
-   "url": "https://magic.wizards.com/en/news/making-magic/reality-fracture-vision-design-handoff-part-1"
-  },
-  {
-   "title": "Reality Fracture Release Notes",
-   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-release-notes"
-  },
-  {
    "title": "Reality Fracture Prerelease Guide",
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-prerelease-guide"
+  },
+  {
+   "title": "Foundations Commander Decklists",
+   "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
    "title": "Reality Fracture Multiverse Reforged Commander Decklist",
@@ -50,12 +42,12 @@
    "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
   },
   {
-   "title": "Reality Fracture Tokens and Art Cards",
-   "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
-  },
-  {
    "title": "Reality Fracture Update Bulletin",
    "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-update-bulletin"
+  },
+  {
+   "title": "Reality Fracture Tokens and Art Cards",
+   "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
    "title": "MTG Arena",
@@ -80,6 +72,14 @@
   {
    "title": "Jess Dunks",
    "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
+  },
+  {
+   "title": "Eliana Rabinowitz",
+   "url": "https://magic.wizards.com/en/news/archive?author=77QsgqWz8LuRgzwOQcSMAa"
+  },
+  {
+   "title": "Eric Levine",
+   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   }
  ],
  "news_fetch_ok": true
