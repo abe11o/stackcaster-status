@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T12:30:01Z",
+ "generated_at": "2026-09-24T13:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -74,12 +74,12 @@
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   },
   {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+   "title": "Jess Dunks",
+   "url": "https://magic.wizards.com/en/news/archive?author=1rFwC8N8a1d3WjMuIqMMqT"
   }
  ],
  "news_fetch_ok": true
