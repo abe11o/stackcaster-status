@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T17:00:02Z",
+ "generated_at": "2026-09-28T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,6 +54,18 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
   },
@@ -64,22 +76,6 @@
   {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
