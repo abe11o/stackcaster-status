@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T19:00:02Z",
+ "generated_at": "2026-10-02T19:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,32 +22,28 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "MTG Arena Wizards Play Network Integration",
-   "url": "https://magic.wizards.com/en/news/mtg-arena/wizards-play-network-integration"
-  },
-  {
-   "title": "Secret Lair: Corn Maze Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
-  },
-  {
-   "title": "Reality Fracture Vision Design Handoff, Part 2",
-   "url": "https://magic.wizards.com/en/news/making-magic/reality-fracture-vision-design-handoff-part-2"
+   "title": "Reality Fracture Buyer's Guide for Commander",
+   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
   },
   {
    "title": "Foundations Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
-   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
-   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
-  },
-  {
-   "title": "Reality Fracture Buyer's Guide for Commander",
-   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
+   "title": "Secret Lair: Corn Maze Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
   },
   {
    "title": "Collecting Reality Fracture",
    "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
+  },
+  {
+   "title": "Reality Fracture Vision Design Handoff, Part 2",
+   "url": "https://magic.wizards.com/en/news/making-magic/reality-fracture-vision-design-handoff-part-2"
+  },
+  {
+   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
   },
   {
    "title": "Reality Fracture Update Bulletin",
