@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:30:01Z",
+ "generated_at": "2026-10-06T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,12 +22,12 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Secret Lair Heads South with Festival in a Box: Atlanta 2026 and Mystery Booster Commander Edition",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
+   "title": "Join us for October's Wizards of the Coast x Trans Lifeline Fundraising Stream",
+   "url": "https://magic.wizards.com/en/news/announcements/join-us-for-octobers-wizards-of-the-coast-x-trans-lifeline-fundraising-stream"
   },
   {
-   "title": "Updating Our Boosters in 2027",
-   "url": "https://magic.wizards.com/en/news/announcements/updating-our-boosters-in-2027"
+   "title": "Secret Lair Heads South with Festival in a Box: Atlanta 2026 and Mystery Booster Commander Edition",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
   },
   {
    "title": "Reality Fracture Vision Design Handoff, Part 3",
@@ -46,24 +46,12 @@
    "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
   },
   {
-   "title": "Secret Lair: Corn Maze Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
-  },
-  {
    "title": "Reality Fracture Update Bulletin",
    "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-update-bulletin"
   },
   {
    "title": "Reality Fracture Tokens and Art Cards",
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Announcements",
@@ -74,12 +62,24 @@
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "Blake Rasmussen",
-   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
+  },
+  {
+   "title": "Mark Rosewater",
+   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Blake Rasmussen",
+   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
   }
  ],
  "news_fetch_ok": true
