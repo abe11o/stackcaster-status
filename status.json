@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T21:00:02Z",
+ "generated_at": "2026-10-06T21:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -70,16 +70,16 @@
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
-   "title": "Blake Rasmussen",
-   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
-  },
-  {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
   },
   {
    "title": "Mark Rosewater",
    "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Blake Rasmussen",
+   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
   }
  ],
  "news_fetch_ok": true
