@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T15:00:01Z",
+ "generated_at": "2026-10-08T15:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -30,20 +30,16 @@
    "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition"
   },
   {
-   "title": "Reality Fracture Vision Design Handoff, Part 3",
-   "url": "https://magic.wizards.com/en/news/making-magic/reality-fracture-vision-design-handoff-part-3"
-  },
-  {
-   "title": "Reality Fracture Buyer's Guide for Commander",
-   "url": "https://magic.wizards.com/en/news/feature/reality-fracture-buyers-guide-for-commander"
-  },
-  {
    "title": "Foundations Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
    "title": "Reality Fracture Multiverse Reforged Commander Decklist",
    "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
+  },
+  {
+   "title": "Collecting Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-reality-fracture"
   },
   {
    "title": "Reality Fracture Update Bulletin",
@@ -80,6 +76,10 @@
   {
    "title": "Mark Rosewater",
    "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Max Manco",
+   "url": "https://magic.wizards.com/en/news/archive?author=2IW0y8xIJAdkx7gAL5Hjq5"
   }
  ],
  "news_fetch_ok": true
