@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T23:00:01Z",
+ "generated_at": "2026-10-12T23:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,14 +54,6 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
    "title": "Magic Story",
    "url": "https://magic.wizards.com/en/news/magic-story"
   },
@@ -80,6 +72,14 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
