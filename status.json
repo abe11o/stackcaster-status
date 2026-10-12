@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T17:00:01Z",
+ "generated_at": "2026-10-12T17:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,32 +54,32 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "Magic Story",
+   "url": "https://magic.wizards.com/en/news/magic-story"
   },
   {
-   "title": "Carmen Klomparens",
-   "url": "https://magic.wizards.com/en/news/archive?author=1M1YMw3sfInI8hxMtrmb2S"
+   "title": "Meris Mullaley",
+   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
   },
   {
-   "title": "Jadine Klomparens",
-   "url": "https://magic.wizards.com/en/news/archive?author=7I6mT6EEM0s2v48BZvisQF"
+   "title": "Christopher Stuart-Reckling",
+   "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
   },
   {
-   "title": "Arya Karamchandani",
-   "url": "https://magic.wizards.com/en/news/archive?author=4JeDRImhds5jgjY76L9XuR"
+   "title": "K. Arsenault Rivera",
+   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
   },
   {
-   "title": "Eric Engelhard",
-   "url": "https://magic.wizards.com/en/news/archive?author=1pKzjdgHmMWjL3Z2Nd5Fvc"
+   "title": "DK Billins",
+   "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
   }
  ],
  "news_fetch_ok": true
