@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T17:00:01Z",
+ "generated_at": "2026-10-13T17:30:03Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,20 +22,16 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Banned and Restricted Announcement \u2013 October 12, 2026",
-   "url": "https://magic.wizards.com/en/news/announcements/banned-and-restricted-october-12-2026"
-  },
-  {
-   "title": "Secret Lair: Corn Maze Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-corn-maze-superdrop"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Marvel: Darkhold Destiny Emerges April 2027",
-   "url": "https://magic.wizards.com/en/news/announcements/marvel-darkhold-destiny-emerges-april-2027"
+   "title": "Bring Two New Secret Lair Drops to Your Multiverse with Reality Fracture",
+   "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
   },
   {
    "title": "Origin Stories",
    "url": "https://magic.wizards.com/en/news/making-magic/origin-stories"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | Marvel: Darkhold Destiny Emerges April 2027",
+   "url": "https://magic.wizards.com/en/news/announcements/marvel-darkhold-destiny-emerges-april-2027"
   },
   {
    "title": "Foundations Commander Decklists",
@@ -52,6 +48,18 @@
   {
    "title": "Reality Fracture Tokens and Art Cards",
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Magic Story",
@@ -72,14 +80,6 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Kendall Pepple",
-   "url": "https://magic.wizards.com/en/news/archive?author=2NYA1Xji7kE2KJs2HRKfoA"
   }
  ],
  "news_fetch_ok": true
