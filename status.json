@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T20:00:01Z",
+ "generated_at": "2026-10-14T20:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,20 +26,16 @@
    "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
   },
   {
-   "title": "Origin Stories",
-   "url": "https://magic.wizards.com/en/news/making-magic/origin-stories"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Marvel: Darkhold Destiny Emerges April 2027",
-   "url": "https://magic.wizards.com/en/news/announcements/marvel-darkhold-destiny-emerges-april-2027"
+   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
   },
   {
    "title": "Foundations Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
   },
   {
-   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
-   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
+   "title": "Magic: The Gathering\u00ae | Marvel: Darkhold Destiny Emerges April 2027",
+   "url": "https://magic.wizards.com/en/news/announcements/marvel-darkhold-destiny-emerges-april-2027"
   },
   {
    "title": "Reality Fracture Update Bulletin",
@@ -80,6 +76,10 @@
   {
    "title": "DK Billins",
    "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
+  },
+  {
+   "title": "Kendall Pepple",
+   "url": "https://magic.wizards.com/en/news/archive?author=2NYA1Xji7kE2KJs2HRKfoA"
   }
  ],
  "news_fetch_ok": true
