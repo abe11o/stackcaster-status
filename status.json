@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T16:30:01Z",
+ "generated_at": "2026-10-16T17:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,12 +26,20 @@
    "url": "https://magic.wizards.com/en/news/announcements/where-to-find-star-trek-previews"
   },
   {
+   "title": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-countdown-kit-marvels-history-of-heroes"
+  },
+  {
    "title": "Bring Two New Secret Lair Drops to Your Multiverse with Reality Fracture",
    "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
   },
   {
    "title": "Foundations Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/foundations-commander-decklists"
+  },
+  {
+   "title": "Reality Fracture Multiverse Reforged Commander Decklist",
+   "url": "https://magic.wizards.com/en/news/announcements/reality-fracture-multiverse-reforged-commander-decklist"
   },
   {
    "title": "Magic: The Gathering\u00ae | Marvel: Darkhold Destiny Emerges April 2027",
@@ -72,10 +80,6 @@
   {
    "title": "K. Arsenault Rivera",
    "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
-  },
-  {
-   "title": "DK Billins",
-   "url": "https://magic.wizards.com/en/news/archive?author=2r8gl6GqKg9CYy72X66voc"
   }
  ],
  "news_fetch_ok": true
