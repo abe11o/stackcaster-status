@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T01:30:01Z",
+ "generated_at": "2026-10-18T02:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -16,8 +16,7 @@
   "code": "trk",
   "name": "Star Trek",
   "released_at": "2026-11-20",
-  "days_to_release": 33,
-  "scryfall_card_count": 135
+  "days_to_release": 33
  },
  "poller_events_26h": [],
  "news_headlines": [
