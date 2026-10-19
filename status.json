@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:00:02Z",
+ "generated_at": "2026-10-19T18:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,6 +54,14 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
@@ -70,16 +78,8 @@
    "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
    "title": "Eric Levine",
    "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
