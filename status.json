@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T15:30:01Z",
+ "generated_at": "2026-10-19T16:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -58,6 +58,10 @@
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
+   "title": "Eric Levine",
+   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
+  },
+  {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
@@ -76,10 +80,6 @@
   {
    "title": "Christopher Stuart-Reckling",
    "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
-  },
-  {
-   "title": "K. Arsenault Rivera",
-   "url": "https://magic.wizards.com/en/news/archive?author=63Cs9M36QxbVUV194kFoGl"
   }
  ],
  "news_fetch_ok": true
