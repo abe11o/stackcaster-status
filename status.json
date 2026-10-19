@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T19:00:02Z",
+ "generated_at": "2026-10-19T19:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -66,16 +66,16 @@
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
   {
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
+  },
+  {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Max Manco",
    "url": "https://magic.wizards.com/en/news/archive?author=2IW0y8xIJAdkx7gAL5Hjq5"
-  },
-  {
-   "title": "Zach Barash",
-   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
   },
   {
    "title": "Eric Levine",
