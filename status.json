@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T17:00:01Z",
+ "generated_at": "2026-10-19T17:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,6 +54,22 @@
    "url": "https://magic.wizards.com/en/news/card-preview/reality-fracture-tokens-and-art-cards"
   },
   {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Max Manco",
+   "url": "https://magic.wizards.com/en/news/archive?author=2IW0y8xIJAdkx7gAL5Hjq5"
+  },
+  {
+   "title": "Zach Barash",
+   "url": "https://magic.wizards.com/en/news/archive?author=4GMiCaA57KCSiyf41o2KOJ"
+  },
+  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
@@ -64,22 +80,6 @@
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
-  },
-  {
-   "title": "Meris Mullaley",
-   "url": "https://magic.wizards.com/en/news/archive?author=5OA860lZuxAz0AVqtGAayF"
-  },
-  {
-   "title": "Christopher Stuart-Reckling",
-   "url": "https://magic.wizards.com/en/news/archive?author=2ILGxOGd2g9pS7ZRvQlRWy"
   }
  ],
  "news_fetch_ok": true
