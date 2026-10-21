@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:30:01Z",
+ "generated_at": "2026-10-21T18:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,7 +17,7 @@
   "name": "Star Trek",
   "released_at": "2026-11-20",
   "days_to_release": 30,
-  "scryfall_card_count": 316
+  "scryfall_card_count": 325
  },
  "poller_events_26h": [
   "[2026-10-20 18:43:02Z]   DROP: MECHANICS ARTICLE IS LIVE -> https://magic.wizards.com/en/news/feature/star-trek-mechanics",
