@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T02:30:02Z",
+ "generated_at": "2026-10-21T03:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -8,10 +8,8 @@
   "all_ok": true
  },
  "pending_guides": {
-  "count": 1,
-  "codes": [
-   "trk"
-  ]
+  "count": 0,
+  "codes": []
  },
  "cr_effective": "September 25, 2026",
  "next_set": {
