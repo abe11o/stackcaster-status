@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T20:30:01Z",
+ "generated_at": "2026-10-21T21:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -20,7 +20,6 @@
   "scryfall_card_count": 325
  },
  "poller_events_26h": [
-  "[2026-10-20 18:43:02Z]   DROP: MECHANICS ARTICLE IS LIVE -> https://magic.wizards.com/en/news/feature/star-trek-mechanics",
   "[2026-10-20 19:04:38Z]   >>> STAGED GUIDE READY: trk \u2014 approve it in the admin panel (Pending Guides tab). Zero-deploy publish."
  ],
  "news_headlines": [
