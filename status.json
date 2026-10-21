@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:00:01Z",
+ "generated_at": "2026-10-21T21:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -19,9 +19,7 @@
   "days_to_release": 30,
   "scryfall_card_count": 325
  },
- "poller_events_26h": [
-  "[2026-10-20 19:04:38Z]   >>> STAGED GUIDE READY: trk \u2014 approve it in the admin panel (Pending Guides tab). Zero-deploy publish."
- ],
+ "poller_events_26h": [],
  "news_headlines": [
   {
    "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
