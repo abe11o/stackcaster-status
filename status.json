@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:30:01Z",
+ "generated_at": "2026-10-26T18:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,20 +54,20 @@
    "url": "https://magic.wizards.com/en/news/announcements/where-to-find-star-trek-previews"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
-  },
-  {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   },
   {
    "title": "Making Magic",
