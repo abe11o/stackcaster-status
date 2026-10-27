@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:00:02Z",
+ "generated_at": "2026-10-27T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,12 +22,12 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Secret Lair: Set Phasers to Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
+  },
+  {
+   "title": "Secret Lair: Set Phasers to Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
   },
   {
    "title": "Magic Presents: Black History Month Celebration",
@@ -54,12 +54,12 @@
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
    "title": "MTG Arena",
