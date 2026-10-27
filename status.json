@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:30:02Z",
+ "generated_at": "2026-10-27T15:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,32 +26,24 @@
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
   },
   {
-   "title": "Bring Two New Secret Lair Drops to Your Multiverse with Reality Fracture",
-   "url": "https://magic.wizards.com/en/news/announcements/bring-two-new-secret-lair-drops-to-your-multiverse-with-reality-fracture"
-  },
-  {
    "title": "Magic Presents: Black History Month Celebration",
    "url": "https://magic.wizards.com/en/news/announcements/magic-presents-black-history-month-celebration"
-  },
-  {
-   "title": "How to Design Sets for Expansive Properties",
-   "url": "https://magic.wizards.com/en/news/making-magic/how-to-design-sets-for-expansive-properties"
-  },
-  {
-   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Buyer's Guide",
    "url": "https://magic.wizards.com/en/news/feature/star-trek-buyers-guide"
   },
   {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Mechanics",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
+   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Where to Find Magic: The Gathering\u00ae | Star Trek\u2122 Previews",
-   "url": "https://magic.wizards.com/en/news/announcements/where-to-find-star-trek-previews"
+   "title": "How to Design Sets for Expansive Properties",
+   "url": "https://magic.wizards.com/en/news/making-magic/how-to-design-sets-for-expansive-properties"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Mechanics",
+   "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
   },
   {
    "title": "Announcements",
@@ -80,6 +72,14 @@
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Gavin Verhey",
+   "url": "https://magic.wizards.com/en/news/archive?author=5m1u9U8j4A5Q8XLlASAsjK"
   }
  ],
  "news_fetch_ok": true
