@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:00:01Z",
+ "generated_at": "2026-10-28T18:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,12 +22,12 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
+  },
+  {
+   "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
   },
   {
    "title": "Secret Lair: Set Phasers to Superdrop",
@@ -50,20 +50,20 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
    "title": "MTG Arena",
