@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:30:01Z",
+ "generated_at": "2026-10-30T18:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -58,6 +58,14 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
   },
   {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
   },
@@ -72,14 +80,6 @@
   {
    "title": "Eric Levine",
    "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
-  },
-  {
-   "title": "Blake Rasmussen",
-   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
-  },
-  {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
