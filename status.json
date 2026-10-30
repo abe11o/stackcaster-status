@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:00:01Z",
+ "generated_at": "2026-10-30T15:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -17,29 +17,37 @@
   "name": "Star Trek",
   "released_at": "2026-11-20",
   "days_to_release": 21,
-  "scryfall_card_count": 560
+  "scryfall_card_count": 581
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Prerelease Guide",
+   "url": "https://magic.wizards.com/en/news/feature/star-trek-prerelease-guide"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Tokens and Art Cards",
+   "url": "https://magic.wizards.com/en/news/card-preview/star-trek-tokens-and-art-cards"
+  },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
   },
   {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Release Notes",
+   "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
+  },
+  {
+   "title": "All the Scene Cards from Magic: The Gathering\u00ae | Star Trek\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/all-the-scene-cards-from-star-trek"
+  },
+  {
+   "title": "Unused Magic: The Gathering\u00ae | Star Trek\u2122 Art",
+   "url": "https://magic.wizards.com/en/news/feature/unused-star-trek-art"
+  },
+  {
    "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
-  },
-  {
-   "title": "Secret Lair: Set Phasers to Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
-  },
-  {
-   "title": "Magic Presents: Black History Month Celebration",
-   "url": "https://magic.wizards.com/en/news/announcements/magic-presents-black-history-month-celebration"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Buyer's Guide",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-buyers-guide"
   },
   {
    "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
@@ -50,36 +58,28 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   },
   {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
+   "title": "Card Preview",
+   "url": "https://magic.wizards.com/en/news/card-preview"
   },
   {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+   "title": "Eric Levine",
+   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Blake Rasmussen",
+   "url": "https://magic.wizards.com/en/news/archive?author=79798M8Sh7ito0Lr1YKQ3B"
   },
   {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
-  },
-  {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
-  },
-  {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
