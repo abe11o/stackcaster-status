@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T16:00:01Z",
+ "generated_at": "2026-11-02T16:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -58,6 +58,14 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
   },
   {
+   "title": "Making Magic",
+   "url": "https://magic.wizards.com/en/news/making-magic"
+  },
+  {
+   "title": "Mark Rosewater",
+   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
@@ -72,14 +80,6 @@
   {
    "title": "Jubilee Finnegan",
    "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
-  },
-  {
-   "title": "Card Preview",
-   "url": "https://magic.wizards.com/en/news/card-preview"
-  },
-  {
-   "title": "Eric Levine",
-   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   }
  ],
  "news_fetch_ok": true
