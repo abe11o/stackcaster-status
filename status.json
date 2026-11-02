@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:00:01Z",
+ "generated_at": "2026-11-02T17:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,10 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Secret Lair Countdown Kit: Marvel's History of Heroes",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-countdown-kit-marvels-history-of-heroes"
+  },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Prerelease Guide",
    "url": "https://magic.wizards.com/en/news/feature/star-trek-prerelease-guide"
@@ -76,10 +80,6 @@
   {
    "title": "Feature",
    "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Jubilee Finnegan",
-   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   }
  ],
  "news_fetch_ok": true
