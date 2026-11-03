@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:00:01Z",
+ "generated_at": "2026-11-03T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -21,6 +21,10 @@
  },
  "poller_events_26h": [],
  "news_headlines": [
+  {
+   "title": "Magic Levels Up with Extra Life for 2026",
+   "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
+  },
   {
    "title": "Ad Astra Per Aspera",
    "url": "https://magic.wizards.com/en/news/feature/ad-astra-per-aspera"
@@ -62,24 +66,20 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-prerelease-guide"
   },
   {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Crystal Frasier",
-   "url": "https://magic.wizards.com/en/news/archive?author=10BQQhyJfnISarR6aLOvsW"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   },
   {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
+  },
+  {
+   "title": "Crystal Frasier",
+   "url": "https://magic.wizards.com/en/news/archive?author=10BQQhyJfnISarR6aLOvsW"
   }
  ],
  "news_fetch_ok": true
