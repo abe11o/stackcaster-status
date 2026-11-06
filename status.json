@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:00:02Z",
+ "generated_at": "2026-11-06T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,20 +22,16 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "IDIC: Infinite Diversity in Infinite Combinations",
-   "url": "https://magic.wizards.com/en/news/feature/idic-infinite-diversity-in-infinite-combinations"
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
+   "url": "https://magic.wizards.com/en/news/announcements/star-trek-update-bulletin"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Prerelease Guide",
    "url": "https://magic.wizards.com/en/news/feature/star-trek-prerelease-guide"
   },
   {
-   "title": "Magic Levels Up with Extra Life for 2026",
-   "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
-  },
-  {
-   "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
+   "title": "Secret Lair: Set Phasers to Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
@@ -46,20 +42,12 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Mechanics",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Tokens and Art Cards",
+   "url": "https://magic.wizards.com/en/news/card-preview/star-trek-tokens-and-art-cards"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Release Notes",
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
-   "url": "https://magic.wizards.com/en/news/announcements/star-trek-update-bulletin"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Tokens and Art Cards",
-   "url": "https://magic.wizards.com/en/news/card-preview/star-trek-tokens-and-art-cards"
   },
   {
    "title": "Announcements",
@@ -80,6 +68,14 @@
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
   }
  ],
  "news_fetch_ok": true
