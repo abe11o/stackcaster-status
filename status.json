@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:00:01Z",
+ "generated_at": "2026-11-06T16:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,12 +54,20 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
+   "url": "https://magic.wizards.com/en/news/announcements/star-trek-update-bulletin"
+  },
+  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Tokens and Art Cards",
    "url": "https://magic.wizards.com/en/news/card-preview/star-trek-tokens-and-art-cards"
   },
   {
-   "title": "Unused Magic: The Gathering\u00ae | Star Trek\u2122 Art",
-   "url": "https://magic.wizards.com/en/news/feature/unused-star-trek-art"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Eric Levine",
+   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   },
   {
    "title": "Feature",
@@ -70,16 +78,8 @@
    "url": "https://magic.wizards.com/en/news/archive?author=10BQQhyJfnISarR6aLOvsW"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
   }
  ],
  "news_fetch_ok": true
