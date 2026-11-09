@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:00:02Z",
+ "generated_at": "2026-11-09T18:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -54,6 +54,18 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
+   "title": "MTG Arena",
+   "url": "https://magic.wizards.com/en/news/mtg-arena"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
+   "title": "John Schork",
+   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
   },
@@ -68,18 +80,6 @@
   {
    "title": "Eric Levine",
    "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
-  },
-  {
-   "title": "Crystal Frasier",
-   "url": "https://magic.wizards.com/en/news/archive?author=10BQQhyJfnISarR6aLOvsW"
-  },
-  {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
   }
  ],
  "news_fetch_ok": true
