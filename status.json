@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:30:01Z",
+ "generated_at": "2026-11-10T01:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -8,8 +8,10 @@
   "all_ok": true
  },
  "pending_guides": {
-  "count": 0,
-  "codes": []
+  "count": 1,
+  "codes": [
+   "trk"
+  ]
  },
  "cr_effective": "November 6, 2026",
  "next_set": {
@@ -19,7 +21,11 @@
   "days_to_release": 10,
   "scryfall_card_count": 586
  },
- "poller_events_26h": [],
+ "poller_events_26h": [
+  "[2026-11-10 00:43:29Z]   DROP: app now serves CR 2026-11-06 \u2014 newer than trk's provisional guide; regen due",
+  "[2026-11-10 00:43:29Z]   REGEN: trk guide is provisional and the new CR is installed \u2014 attempt 1/2 (draft only ~$0.40, no new research)",
+  "[2026-11-10 00:49:25Z]   REGEN FAILED (rc=3) \u2014 will retry on the next CR-window poll"
+ ],
  "news_headlines": [
   {
    "title": "Secret Lair: Set Phasers to Superdrop",
