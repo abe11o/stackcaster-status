@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:00:01Z",
+ "generated_at": "2026-11-10T23:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -30,6 +30,10 @@
   {
    "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
+  },
+  {
+   "title": "Secret Lair: Set Phasers to Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
@@ -82,10 +86,6 @@
   {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
-  },
-  {
-   "title": "Eric Levine",
-   "url": "https://magic.wizards.com/en/news/archive?author=dcOQsCM0F2kfCverQgXOg"
   }
  ],
  "news_fetch_ok": true
