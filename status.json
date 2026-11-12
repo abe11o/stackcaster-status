@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T16:30:01Z",
+ "generated_at": "2026-11-12T17:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -34,16 +34,12 @@
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
   },
   {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Buyer's Guide",
+   "url": "https://magic.wizards.com/en/news/feature/star-trek-buyers-guide"
+  },
+  {
    "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Mechanics",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-mechanics"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Release Notes",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
@@ -56,6 +52,10 @@
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Tokens and Art Cards",
    "url": "https://magic.wizards.com/en/news/card-preview/star-trek-tokens-and-art-cards"
+  },
+  {
+   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Release Notes",
+   "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
    "title": "MTG Arena",
