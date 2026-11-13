@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:00:02Z",
+ "generated_at": "2026-11-13T19:30:04Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,8 +22,16 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
+   "title": "Collecting Nauctis: The Sunken Realm | A First Look",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
+  },
+  {
+   "title": "Planeswalker's Guide to Nauctis: The Sunken Realm",
+   "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-nauctis-the-sunken-realm"
+  },
+  {
+   "title": "Netflix Reveals Magic: The Gathering Animated Series PLANESWALKER",
+   "url": "https://magic.wizards.com/en/news/announcements/netflix-reveals-magic-the-gathering-animated-series-planeswalker"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
@@ -32,10 +40,6 @@
   {
    "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Buyer's Guide",
-   "url": "https://magic.wizards.com/en/news/feature/star-trek-buyers-guide"
   },
   {
    "title": "Secret Lair: Set Phasers to Superdrop",
@@ -58,28 +62,24 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
-   "title": "Announcements",
-   "url": "https://magic.wizards.com/en/news/announcements"
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   },
   {
-   "title": "Wizards of the Coast",
-   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+   "title": "Ben Bleiweiss",
+   "url": "https://magic.wizards.com/en/news/archive?author=2n3RTCINKocLK3b948cAbv"
   },
   {
-   "title": "MTG Arena",
-   "url": "https://magic.wizards.com/en/news/mtg-arena"
+   "title": "Jubilee Finnegan",
+   "url": "https://magic.wizards.com/en/news/archive?author=4VlvAatELhpNnPeDXqzZBm"
   },
   {
-   "title": "John Schork",
-   "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+   "title": "Kendall Pepple",
+   "url": "https://magic.wizards.com/en/news/archive?author=2NYA1Xji7kE2KJs2HRKfoA"
   },
   {
-   "title": "Making Magic",
-   "url": "https://magic.wizards.com/en/news/making-magic"
-  },
-  {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+   "title": "Magic Story",
+   "url": "https://magic.wizards.com/en/news/magic-story"
   }
  ],
  "news_fetch_ok": true
