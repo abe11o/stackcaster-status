@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T16:30:01Z",
+ "generated_at": "2026-11-13T17:00:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -26,12 +26,12 @@
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
   },
   {
-   "title": "Secret Lair: Set Phasers to Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
+  },
+  {
+   "title": "Secret Lair: Set Phasers to Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Buyer's Guide",
