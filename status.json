@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T00:00:01Z",
+ "generated_at": "2026-11-14T00:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -78,8 +78,8 @@
    "url": "https://magic.wizards.com/en/news/archive?author=2NYA1Xji7kE2KJs2HRKfoA"
   },
   {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
   }
  ],
  "news_fetch_ok": true
