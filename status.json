@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:30:01Z",
+ "generated_at": "2026-11-16T17:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,6 +22,14 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
+   "title": "Magic Levels Up with Extra Life for 2026",
+   "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
+  },
+  {
+   "title": "Design Files: Fifth Dawn, Part 3",
+   "url": "https://magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-3"
+  },
+  {
    "title": "Collecting Nauctis: The Sunken Realm | A First Look",
    "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
   },
@@ -42,10 +50,6 @@
    "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
-   "title": "Secret Lair: Set Phasers to Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-set-phasers-to-superdrop"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-update-bulletin"
   },
@@ -62,24 +66,20 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
+   "title": "Making Magic",
+   "url": "https://magic.wizards.com/en/news/making-magic"
+  },
+  {
+   "title": "Mark Rosewater",
+   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
    "title": "Announcements",
    "url": "https://magic.wizards.com/en/news/announcements"
   },
   {
    "title": "Wizards of the Coast",
    "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
-  },
-  {
-   "title": "Magic Story",
-   "url": "https://magic.wizards.com/en/news/magic-story"
-  },
-  {
-   "title": "Laurel Pratt",
-   "url": "https://magic.wizards.com/en/news/archive?author=yiRUEAqni7aquRasc5429"
-  },
-  {
-   "title": "Feature",
-   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
