@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:00:02Z",
+ "generated_at": "2026-11-18T17:30:01Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,32 +22,28 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Magic Levels Up with Extra Life for 2026",
-   "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
+   "title": "Secret Lair: My Arrakis, My Superdrop",
+   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
   },
   {
-   "title": "Design Files: Fifth Dawn, Part 3",
-   "url": "https://magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-3"
+   "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
+  },
+  {
+   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
    "title": "Collecting Nauctis: The Sunken Realm | A First Look",
    "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
   },
   {
+   "title": "Magic Levels Up with Extra Life for 2026",
+   "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
+  },
+  {
    "title": "Planeswalker's Guide to Nauctis: The Sunken Realm",
    "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-nauctis-the-sunken-realm"
-  },
-  {
-   "title": "Netflix Reveals Magic: The Gathering Animated Series PLANESWALKER",
-   "url": "https://magic.wizards.com/en/news/announcements/netflix-reveals-magic-the-gathering-animated-series-planeswalker"
-  },
-  {
-   "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
-   "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
-  },
-  {
-   "title": "Collecting Magic: The Gathering\u00ae | Star Trek\u2122",
-   "url": "https://magic.wizards.com/en/news/feature/collecting-star-trek"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
@@ -66,6 +62,14 @@
    "url": "https://magic.wizards.com/en/news/feature/star-trek-release-notes"
   },
   {
+   "title": "Announcements",
+   "url": "https://magic.wizards.com/en/news/announcements"
+  },
+  {
+   "title": "Wizards of the Coast",
+   "url": "https://magic.wizards.com/en/news/archive?author=16KYD58d7OtFD4QhXVB23e"
+  },
+  {
    "title": "MTG Arena",
    "url": "https://magic.wizards.com/en/news/mtg-arena"
   },
@@ -76,10 +80,6 @@
   {
    "title": "Making Magic",
    "url": "https://magic.wizards.com/en/news/making-magic"
-  },
-  {
-   "title": "Mark Rosewater",
-   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
   }
  ],
  "news_fetch_ok": true
