@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:00:01Z",
+ "generated_at": "2026-11-20T17:30:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -34,10 +34,6 @@
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
   },
   {
-   "title": "Collecting Nauctis: The Sunken Realm | A First Look",
-   "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
-  },
-  {
    "title": "Where to Play Magic: The Gathering\u00ae | Star Trek\u2122",
    "url": "https://magic.wizards.com/en/news/feature/where-to-play-star-trek"
   },
@@ -48,6 +44,10 @@
   {
    "title": "Magic Levels Up with Extra Life for 2026",
    "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
+  },
+  {
+   "title": "Collecting Nauctis: The Sunken Realm | A First Look",
+   "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
   },
   {
    "title": "Planeswalker's Guide to Nauctis: The Sunken Realm",
