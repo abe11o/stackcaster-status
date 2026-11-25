@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:30:02Z",
+ "generated_at": "2026-11-25T00:00:02Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -16,7 +16,7 @@
   "code": "nau",
   "name": "Nauctis: The Sunken Realm",
   "released_at": "2027-02-05",
-  "days_to_release": 73,
+  "days_to_release": 72,
   "scryfall_card_count": 24
  },
  "poller_events_26h": [],
