@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:00:02Z",
+ "generated_at": "2026-11-26T19:30:03Z",
  "site": {
   "healthz": 200,
   "landing": 200,
@@ -22,10 +22,6 @@
  "poller_events_26h": [],
  "news_headlines": [
   {
-   "title": "Design Files: Fifth Dawn, Part 4",
-   "url": "https://magic.wizards.com/en/news/making-magic/design-files-fifth-dawn-part-4"
-  },
-  {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Commander Decklists",
    "url": "https://magic.wizards.com/en/news/announcements/star-trek-commander-decklists"
   },
@@ -42,16 +38,8 @@
    "url": "https://magic.wizards.com/en/news/announcements/magic-levels-up-with-extra-life-for-2026"
   },
   {
-   "title": "Secret Lair: My Arrakis, My Superdrop",
-   "url": "https://magic.wizards.com/en/news/announcements/secret-lair-my-arrakis-my-superdrop"
-  },
-  {
    "title": "Collecting Nauctis: The Sunken Realm | A First Look",
    "url": "https://magic.wizards.com/en/news/feature/collecting-nauctis-the-sunken-realm"
-  },
-  {
-   "title": "Planeswalker's Guide to Nauctis: The Sunken Realm",
-   "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-nauctis-the-sunken-realm"
   },
   {
    "title": "Magic: The Gathering\u00ae | Star Trek\u2122 Update Bulletin",
@@ -80,6 +68,18 @@
   {
    "title": "John Schork",
    "url": "https://magic.wizards.com/en/news/archive?author=5eYpIkMkCLHOSsEVcqReDs"
+  },
+  {
+   "title": "Making Magic",
+   "url": "https://magic.wizards.com/en/news/making-magic"
+  },
+  {
+   "title": "Mark Rosewater",
+   "url": "https://magic.wizards.com/en/news/archive?author=408M0U2kfLQxXWQBue2Gjb"
+  },
+  {
+   "title": "Feature",
+   "url": "https://magic.wizards.com/en/news/feature"
   }
  ],
  "news_fetch_ok": true
